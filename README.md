@@ -97,21 +97,25 @@ Based on the analysis:
 ## 📁 Project Structure
 
 ```text
-customer-shopping-behavior-analysis/
+Customer-Shopping-Behavior-Analysis
 │
-├── data/
-│   └── customer_shopping_behavior.csv
+├── 01_Report
+│   └── Customer Shopping Behavior Analysis_Report.pdf
 │
-├── notebooks/
-│   └── customer_shopping_analysis.ipynb
+├── 02_Python
+│   └── Python Notebook.ipynb
 │
-├── sql/
-│   └── analysis_queries.sql
+├── 03_SQL
+│   └── SQL script.sql
 │
-├── powerbi/
-│   └── customer_shopping_dashboard.pbix
+├── 04_PowerBI
+│   ├── Power BI.pdf
+│   └── dashboard.png
 │
-├── README.md
+├── 05_Presentation
+│   └── Presentation.pdf
+│
+└── README.md
 └── requirements.txt
 ```
 
