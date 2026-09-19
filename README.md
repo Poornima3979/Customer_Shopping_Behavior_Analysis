@@ -126,11 +126,9 @@ Customer-Shopping-Behavior-Analysis
 ```text
 Raw Dataset
      ↓
-Data Cleaning & Preparation
+Data Cleaning & Preparation using Python
      ↓
-Feature Engineering with Python
-     ↓
-PostgreSQL Database
+MySQL Database
      ↓
 SQL Business Analysis
      ↓
