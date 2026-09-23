@@ -4,8 +4,6 @@
 ### Data Analysis | Business Insights | Interactive Dashboard
 
 
-### Data Analysis | Business Insights | Interactive Dashboard# Customer Shopping Behavior Analysis
-
 An end-to-end data analytics project analyzing **3,900 customer transactions** to uncover spending patterns, customer segments, product preferences, and business opportunities.
 
 ## 📊 Project Overview
